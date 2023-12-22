@@ -1,12 +1,12 @@
 Role of DNA methylation on the association between physical activity and cardiovascular diseases: results from the longitudinal multi-ethnic study of atherosclerosis (MESA) cohort,
 PMID: 34732130,
-Shi, H., Ossip, D.J., Mayo, N.L. et al.,
+Shi, H., Ossip, D.J., Li, D. et al.,
 BMC Genomics 22, 790 (2021).,
 https://doi.org/10.1186/s12864-021-08108-w
 
 Univariate EWAS results: continuous PA, categorical PA, prevalent CVD, incident CVD
 
-Abbrevations:
+#Abbrevations:
 CVD related:
 Resuscitated cardiac arrest	- RCA,
 CVD death	- CVDDTH,
