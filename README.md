@@ -3,7 +3,6 @@ Role of DNA methylation on the association between physical activity and cardiov
 PMID: 34732130,
 
 Shi, H., Ossip, D.J., Li, D. et al.,
-
 BMC Genomics 22, 790 (2021).,
 https://doi.org/10.1186/s12864-021-08108-w
 
